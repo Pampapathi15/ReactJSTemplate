@@ -42,7 +42,7 @@ export class Student extends Component {
 
         return (
             <div>
-                <h1> hi hello how are you</h1>
+                <h1> hi hello how are you pampa</h1>
             </div>
         );
     }
