@@ -43,6 +43,7 @@ export class Student extends Component {
         return (
             <div>
                 <h1> hi hello how are you pampa</h1>
+                <h2>hello pampa</h2>
             </div>
         );
     }
